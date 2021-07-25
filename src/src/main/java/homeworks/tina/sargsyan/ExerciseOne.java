@@ -1,7 +1,7 @@
 package homeworks.tina.sargsyan;
 import java.util.Scanner;
 //Take 2 numbers from input. Print their product.
-
+//test
 
 public class ExerciseOne {
     public static void main(String[] args) {
